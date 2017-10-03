@@ -122,7 +122,8 @@
       "info": "Raspberry Pi Info",
       "network": "Network Configuration",
       "home_screen": "GoGo Home Screen",
-      "camera": "Camera"
+      "camera": "Camera",
+      "setting": "Setting"
     },
     "camera": {
       "use": "Use Camera",
